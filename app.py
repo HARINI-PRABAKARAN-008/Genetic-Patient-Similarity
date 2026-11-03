@@ -6,7 +6,7 @@ st.set_page_config(page_title="Genetic Patient Similarity", layout="wide")
 st.title("Genetic Patient Similarity Analysis")
 st.write("Patient Clustering Dashboard")
 
-df = pd.read_csv("genetic_cluster_results.csv")
+df = pd.read_csv("genetic_cluster_results(3).csv")
 
 st.subheader("Clustering Results")
 st.dataframe(df, use_container_width=True)
