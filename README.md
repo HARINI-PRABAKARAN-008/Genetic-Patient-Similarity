@@ -20,3 +20,6 @@ to identify similarities between genetic patients.
 - Cluster visualization
 - Flask API
 - Streamlit dashboard
+## Live Streamlit Dashboard
+
+[Open Project Dashboard](https://genetic-patient-similarity-7lcuxkskfrvhanscencxvh.streamlit.app/)
